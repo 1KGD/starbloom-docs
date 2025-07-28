@@ -1,8 +1,8 @@
 # Summary
 
-[README](index/README.md)
-[ABOUT](about/index.md)
-[INSTALL]()
+[README](about/README.md)
+[ABOUT](about/expanded.md)
+[INSTALL](about/install.md)
 
 # Design
 
