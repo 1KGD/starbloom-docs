@@ -2,15 +2,42 @@
 
 [README](README.md)
 [ABOUT](about/index.md)
-[INSTALL](about/install.md)
+[INSTALL]()
 
 # Design
 
-- [Structure](design/structure.md)
-- Module layout
-  - [Starbloom](design/module_layout/starbloom.md)
-  - [Pyng Engine](design/module_layout/pyng_engine.md)
+- [Structure]()
+- [Module Layout]()
+  - [Starbloom]()
+  - [Pyng Engine]()
 
 # Themes
 
-[About](themes/index.md)
+- [Overview]()
+- [Implementaion]()
+
+# Subsystems
+
+- [Network Routing]()
+- [Chunk-Based Tilemap]()
+- [Procedural Vector Graphics]()
+  - [.vector Files]()
+
+# Multiplayer
+
+- [Implementation]()
+  - [Packets]()
+  - [State Syncs]()
+
+# Story
+
+- [REDACTED]()
+- [REDACTED]()
+  - [REDACTED]()
+    - [REDACTED]()
+  - [REDACTED]()
+
+---
+
+[CREDITS](CREDITS.md)
+[LICENSE](LICENSE.txt)
