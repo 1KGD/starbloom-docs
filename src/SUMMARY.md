@@ -7,7 +7,7 @@
 # Design
 
 - [Structure](design/structure.md)
-- [Module layout](design/module_layout/index.md)
+- Module layout
   - [Starbloom](design/module_layout/starbloom.md)
   - [Pyng Engine](design/module_layout/pyng_engine.md)
 
