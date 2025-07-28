@@ -3,3 +3,9 @@ authors = []
 language = "en"
 src = "src"
 title = "Starbloom"
+
+[output.html]
+smart-punctuation = true
+
+[output.html.fold]
+enable = true
