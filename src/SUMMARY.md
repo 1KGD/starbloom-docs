@@ -1,6 +1,6 @@
 # Summary
 
-[README](README.md)
+[README](index/README.md)
 [ABOUT](about/index.md)
 [INSTALL]()
 

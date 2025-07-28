@@ -1,1 +1,5 @@
-<div class="center">CREDITS</div>
+# CREDITS
+---
+
+### Director - John Schiefelbein
+### Technical Director - John S.
